@@ -6,9 +6,9 @@ Function Parameters - what needs to be inputed into function for function to run
 
 Function Arguments - a variable that holds value within the function, usually outputted
 
-random module (library) - a collection of functions that can be import to use in a program without having to explicitly define each special function
+random module (library) - a collection of functions that can be import to use in a program without having to explicitly define each special function.
 
-while loop - it continues to loop until condition is meet
+while loop - it continues to loop until condition is meet.
 
 boolean (data Type) - true or false helps program be more interactive and assist user
 
