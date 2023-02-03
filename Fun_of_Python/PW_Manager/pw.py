@@ -11,7 +11,7 @@ def load_key():
     key = file.read()
     file.close()
     return key
-
+#have to close files after opened
 
 master_pwd = input('What is the master password? ')
 key = load_key() + master_pwd.encode()
