@@ -4,4 +4,4 @@ Polymorphism -
 
 Abstraction - 
 
-Inheritence - 
+Inheritence -
